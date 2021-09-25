@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libfoo.so -o ../lib.linux-x86_64-3.9/spam/libfoo.so CMakeFiles/foo.dir/spam/foo.cpp.o 

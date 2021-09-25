@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/neerajkumarsj/Neeraj/Cpp/New/spam/foo.cpp
+foo.h
+/home/neerajkumarsj/Neeraj/Cpp/New/spam/foo.h
+
+/home/neerajkumarsj/Neeraj/Cpp/New/spam/foo.h
+
