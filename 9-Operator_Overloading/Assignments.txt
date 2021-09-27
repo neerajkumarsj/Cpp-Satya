@@ -1,0 +1,24 @@
+
+
+1. Implement Simple Arithmetic Calculator
+	Example-
+			A = B + C
+	Operators to be overloaded :- + , *, /, - %
+
+2. Increament The given date
+	Date Format: day/month/year Time Format: hours/mins/secs
+	   T1 = 10/12/2020 10:10:49
+	1. ++T1
+	2. T1++
+	3. T2 = ++T1
+	4. T3 = T1++
+3. Overload the given expression
+	Expression E1 = E2 + E3 -= E4
+	E is complex number in the form a + ib
+
+4. Negate Complex Number Using Unary Operator Overloading Function
+	Example:
+		C = 2 + 4i
+		-C = -2 - 4i
+5. Add Constant to a date of birth(Date and Time) and print the resultant date and time
+	
